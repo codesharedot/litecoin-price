@@ -1,7 +1,7 @@
 # litecoin price
 
-Get litecoin price in Python (https://pythonbasics.org).
-See (https://codesharedot.github.io/litecoin-price/)
+Get litecoin price in Python [](https://pythonbasics.org).
+See [](https://codesharedot.github.io/litecoin-price/)
 
 ```python
 import requests
