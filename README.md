@@ -29,4 +29,4 @@ for coin in response.json():
     if coin_price_eur > 9000:
            os.system('notify-send trade btc')
            
-           ```
+```
